@@ -2,7 +2,7 @@
 Developed desktop application using Python (Tkinter) for managing student records and results. 
 
 # 🎓 Student Result Management System
-> **An Advanced Academic Administration Suite** > A robust, desktop-based management solution developed in Python to streamline student registration, course administration, and academic performance tracking.
+**An Advanced Academic Administration Suite** **with a robust, desktop-based management solution developed in Python to streamline student registration, course administration, and academic performance tracking.**
 
 ---
 
