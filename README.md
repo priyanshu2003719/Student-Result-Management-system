@@ -45,9 +45,3 @@ Developed desktop application using Python (Tkinter) for managing student record
 * ✅ **Dynamic Search:** Advanced filtering capabilities in every management module.
 * ✅ **Automated Calculations:** Built-in logic for percentage and performance metrics.
 * ✅ **Responsive UI:** A clean, orange-and-blue themed professional interface.
-
-
-
-
----
-*Developed with a focus on administrative efficiency and data integrity.*
